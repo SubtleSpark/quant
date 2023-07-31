@@ -1,4 +1,4 @@
-package org.huangcj.quant.akJ;
+package org.huangcj.quant.ak;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

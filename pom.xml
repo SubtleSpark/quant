@@ -16,7 +16,8 @@
     <description>quant</description>
     <modules>
         <module>ak</module>
-        <module>collector</module>
+        <module>quant-Infrastructure</module>
+        <module>quant-domain</module>
     </modules>
     <properties>
         <java.version>17</java.version>
